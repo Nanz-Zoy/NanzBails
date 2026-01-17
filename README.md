@@ -1,6 +1,6 @@
 # Modified Whatsapp-API
 <p align='center'>
-  <img src="https://files.catbox.moe/rhm9rt.webp" width="172">
+  <img src="https://files.catbox.moe/w1h762.jpg" width="172">
 </p>
 
 --- 
@@ -8,7 +8,7 @@
 ## Usage
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "github:tenka-san/WaBails"
+  "@whiskeysockets/baileys": "github:Xenon/PhatomixBails"
 }
 ```
 ## Import
@@ -63,7 +63,7 @@ const ZeppImg = fs.readFileSync('./ZeppImage');
 await client.sendMessage(m.chat, {
   thumbnail: ZeppImg,
   message: "Gotta get a grip",
-  orderTitle: "7eppeli-Corporation",
+  orderTitle: "Kaiross-Corporation",
   totalAmount1000: 72502,
   totalCurrencyCode: "IDR"
 }, { quoted:m })
@@ -73,7 +73,7 @@ await client.sendMessage(m.chat, {
 ```javascript
 await client.sendMessage(m.chat, {
   pollResultMessage: {
-    name: "7eppeli-Corporation",
+    name: "Kaiross-Corporation",
     options: [
       {
         optionName: "poll 1"
@@ -83,8 +83,8 @@ await client.sendMessage(m.chat, {
       }
     ],
     newsletter: {
-      newsletterName: "7eppeli | Killer Queen Information",
-      newsletterJid: "1@newsletter"
+      newsletterName: "NullSex 4 0 4 | Informasi",
+      newsletterJid: "120363400747111340@newsletter"
     }
   }
 })
@@ -94,18 +94,18 @@ await client.sendMessage(m.chat, {
 ```javascript
 await client.relayMessage(m.chat, {
   productMessage {
-    title: "7eppeli.pdf",
+    title: "Kaiross.NullSex",
     description: "zZZ...",
     thumbnail: { url: "./ZeppImage" },
     productId: "EXAMPLE_TOKEN",
     retailerId: "EXAMPLE_RETAILER_ID",
-    url: "https://t.me/YuukeyD7eppeli",
-    body: "Nak Tido",
+    url: "https://t.me/KairossReals",
+    body: "Team Null",
     footer: "Footer",
     buttons: [
       {
         name: "cta_url",
-        buttonParamsJson: "{\"display_text\":\"7eppeli-Pdf\",\"url\":\"https://t.me/YuukeyD7eppeli\"}"
+        buttonParamsJson: "{\"display_text\":\"Kaiross-NullSex\",\"url\":\"https://t.me/KairossReals\"}"
       }
     ],
     priceAmount1000: 72502,
@@ -113,4 +113,4 @@ await client.relayMessage(m.chat, {
   }
 })
 ```
-Follow https://t.me/TenkaWaBails kalau mau liat type message yg lain :v
+Follow https://t.me/pantatbergoyang kalau mau liat type message yg lain :v
