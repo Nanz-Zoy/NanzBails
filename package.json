@@ -1,16 +1,16 @@
 {
-    "name": "tenka-san/WaBails",
+    "name": "Xenonganteng/PhatomixBails",
     "version": "1.7.3",
-    "description": "WhatsApp Modified By 7eppeli",
+    "description": "WhatsApp Modified By Kaiross",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/tenka-san/WaBails",
+    "homepage": "https://github.com/Xenonganteng/PhatomixBails",
     "repository": {
         "url": "https://github.com/tenka-san/WaBails"
     },
     "license": "MIT",
-    "author": "7eppeli - Determinator",
+    "author": "7Kaiross - Determinator",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -45,7 +45,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "github:tenka-san/libsignal-node",
+        "libsignal": "github:NullSex-Area/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://tenka-san/WaBails/issues"
+      "url": "https://Xenonganteng/PhatomixBails/issues"
     }
 }
