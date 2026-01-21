@@ -23,7 +23,6 @@
   "files": [
     "lib/*",
     "WAProto/*",
-    "WASignalGroup/*.js"
   ],
   "scripts": {
     "build:all": "tsc && typedoc",
